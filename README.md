@@ -15,7 +15,7 @@
     <li><strong>Attributes:</strong> Brand, Company, Chemical, Product Type, Subcategory, Date</li>
   </ul>
 
-  <h2>🔧 Key Steps</h2>
+  <h2> Key Steps</h2>
   <ul>
     <li>Removed missing values and standardized brand names</li>
     <li>Randomly sampled 6,000 records using <code>sample_n()</code></li>
